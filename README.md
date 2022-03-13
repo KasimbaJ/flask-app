@@ -1,2 +1,2 @@
 # flask-app
-Download a Django Cheat Sheet.
+This basic app allows you to Register, Login and Download a Django Cheat Sheet.
